@@ -1,0 +1,13 @@
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:16 - Will execute the method once, before the start of all tests.This can be used to perform time intensive activities, for example to connect to a database.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:14 - Code in this method will be executed before each test.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:19 - Code in this method will be executed after each test.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:14 - Code in this method will be executed before each test.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:19 - Code in this method will be executed after each test.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:14 - Code in this method will be executed before each test.
+2017-07-04 00:41:07 INFO  CalculatorPositiveTests:19 - Code in this method will be executed after each test.
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:23 - Code in this method will be executed after all tests. Even if they will be failed.
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:16 - Will execute the method once, before the start of all tests.This can be used to perform time intensive activities, for example to connect to a database.
+2017-07-04 00:41:07 DEBUG CalculatorPositiveTests:14 - Test for division
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:23 - Code in this method will be executed after all tests. Even if they will be failed.
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:16 - Will execute the method once, before the start of all tests.This can be used to perform time intensive activities, for example to connect to a database.
+2017-07-04 00:41:07 INFO  CalculatorBaseTest:23 - Code in this method will be executed after all tests. Even if they will be failed.
